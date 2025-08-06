@@ -13,7 +13,7 @@ class HomePage extends StatelessWidget {
               child: Column(
                 children: [
                   CircleAvatar(
-                    backgroundImage: AssetImage('images/logo.jpg'),
+                    backgroundImage: AssetImage('assets/logo.jpg'),
                     radius: 40,
                   ),
                   SizedBox(height: 10),
